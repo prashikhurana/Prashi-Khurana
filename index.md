@@ -25,6 +25,10 @@
 State University of New York at Buffalo 
 Computer Science and Engineering
 Feb 2021
+3.79
+- Semester 1: Analyis of Algorithms, Information Retrieval, Computer Vision And Image processing, Introduction to Machine Learning
+- Semester 2: Intoduction to Pattern Recognition, Distributed Systems, Natural Language Processing and Text Mining
+- Semester 3: Object Oriented Design 
 ```
 
 ### Bachelor of Technology
@@ -32,6 +36,8 @@ Feb 2021
 Jaypee Institute of Information Technology
 Information Technology
 June 2015
+8.6 
+Courses - Object Oriented Programming, Data Structures, Database Systems, Fundamentals of Algorithms, Operating Systems, Web Application Engineering, Information Systems, Data Mining, Grpah Algorithms, Cryptography, Machine Learning and Big Data Analytics
 ```
 
 ## Technical Skills 
@@ -54,7 +60,8 @@ Dialogflow, Android Studio, Git, JIRA, REST
 ```
 Software Engineer Intern
 Remote Work 
-US (June 2020 - Aug 2020)
+US 
+June 2020 - Aug 2020
 - Designed and implemented an NLP-based chat service using DialogFlow to deliver automated quick responses to travel-related inquiries from customers.
 - Quick responses effectively eliminated latency between travel agents and customers in aviation and hospitality sectors.
 ```
@@ -63,12 +70,24 @@ US (June 2020 - Aug 2020)
 ```
 Developer Associate
 Bangalore
-India (Nov 2015 – July 2019)
+India 
+Nov 2015 – July 2019
 - Responsible for the development and maintenance of SAP Fieldglass, a vendor management system (web application).
 - Nominated for the ‘Hasso Plattner Founders’ Award’, for developing a key product - ‘SAP Fieldglass Flex’.
 - Restructured salient software components for statement of work documents by implementing full-stack software changes
 - Developed multiple custom SQL scripts for ensuring consistency in company data.
 - Mentored several new recruits at SAP.
+```
+
+### Abyeti Technologies Private Limited
+```
+Technical Analyst
+Bangalore
+India 
+July 2015 – Oct 2015
+-Responsible for maintenance and fixing bug reports in the product Precise, an Application Performance Management software. 
+-This software helps monitor enterprise applications and gives insights to the customer about the application’s performance over time. 
+-Gained expertise in C++ and Java.
 ```
 
 ## Academic Projects 
@@ -98,7 +117,8 @@ India (Nov 2015 – July 2019)
 
 ### Other Projects
 ```
--Mobile Review Website via Sentiment Analysis (Web Application Engineering course project, Jan 2014), Biodiversity Management (Database Management course project, August 2013).
+-Mobile Review Website via Sentiment Analysis (Web Application Engineering course project, Jan 2014), 
+-Biodiversity Management (Database Management course project, August 2013).
 ```
 
 ## Achievements
