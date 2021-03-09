@@ -60,4 +60,32 @@ Dialogflow, Android Studio, Git, JIRA, REST
 - Mentored several new recruits at SAP.
 ```
 
+## Academic Projects 
+```
+## Social Media Mining for Health Monitoring 
+-Processed imbalanced, noisy, real-world, and substantially creative language expressions from social media, to extract and classify mentions of adverse drug reactions (ADRs) in tweets. 
+-Used machine learning algorithms (cosine similarity on fast-text embeddings) to map ADR’s in tweets to standard medical terminology in MedDRA vocabulary. Achieved strong accuracy metrics (F1 score of 0.51).
+-Results and Research Paper accepted by SMM4H 2020.
 
+## Simple Dynamo
+- Implemented distributed key-value storage with partitioning, replication, failure, and quorum replication to support availability and linearizability.
+
+## Analyzing the Impact of Political Rhetoric in Social Media
+- Analyzed the impact of posts of political leaders on social media, by studying the sentiments and reactions of people and news agencies on their posts. [Course Presentation].
+
+## Social Media Marketing
+-Designed an end-to-end brand management framework for online advertising. 
+-This framework used social graph analysis, text edge processing and sentiment analysis to analyse and compare brand popularity.
+-Research Paper accepted by the Social Network Analysis and Mining Journal, 2019.
+
+## Other Projects
+-Mobile Review Website via Sentiment Analysis (Web Application Engineering course project, Jan 2014), Biodiversity Management (Database Management course project, August 2013).
+```
+
+## Achievements
+```
+-Awarded Gold Medal for achieving Department Rank 1 during undergraduate program (JIIT, 2015 batch).
+-Certificate course in Machine Learning (Stanford University), completed July 2019
+-Rest API (Intermediate) Certificate, HackerRank, September 2020
+-Problem Solving (Intermediate) Certificate, HackerRank, September 2020
+```
