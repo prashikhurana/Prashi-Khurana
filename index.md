@@ -4,11 +4,11 @@
 ### Phone: 
 +1 716 431 9920 
 ### Email:
-[](prashikhurana@gmail.com) / [](prashikh@buffalo.edu) 
+[prashikhurana@gmail.com](prashikhurana@gmail.com) / [prashikh@buffalo.edu](prashikh@buffalo.edu) 
 ### GitHub:
-[](https://github.com/prashikhurana)
+[https://github.com/prashikhurana](https://github.com/prashikhurana)
 ### LinkedIn:
-[](https://www.linkedin.com/in/prashi-khurana-2980b2b8/)
+[https://www.linkedin.com/in/prashi-khurana-2980b2b8/](https://www.linkedin.com/in/prashi-khurana-2980b2b8/)
 
 ## Professional Summary 
 ```
