@@ -96,7 +96,7 @@ July 2015 – Oct 2015
 ```
 -Processed imbalanced, noisy, real-world, and substantially creative language expressions from social media, to extract and classify mentions of adverse drug reactions (ADRs) in tweets. 
 -Used machine learning algorithms (cosine similarity on fast-text embeddings) to map ADR’s in tweets to standard medical terminology in MedDRA vocabulary. Achieved strong accuracy metrics (F1 score of 0.51).
--Results and Research Paper accepted by SMM4H 2020.
+-Results and [Research Paper](https://www.aclweb.org/anthology/2020.smm4h-1.16/) accepted by SMM4H 2020.
 ```
 
 ### Simple Dynamo
@@ -105,14 +105,15 @@ July 2015 – Oct 2015
 ```
 ### Analyzing the Impact of Political Rhetoric in Social Media
 ```
-- Analyzed the impact of posts of political leaders on social media, by studying the sentiments and reactions of people and news agencies on their posts. [Course Presentation].
+- Analyzed the impact of posts of political leaders on social media, by studying the sentiments and reactions of people and news agencies on their posts.
+- [Course Presentation](https://www.youtube.com/watch?v=GoXhy6SKhxg).
 ```
 
 ### Social Media Marketing
 ```
 -Designed an end-to-end brand management framework for online advertising. 
 -This framework used social graph analysis, text edge processing and sentiment analysis to analyse and compare brand popularity.
--Research Paper accepted by the Social Network Analysis and Mining Journal, 2019.
+-[Research Paper](https://link.springer.com/article/10.1007/s13278-017-0442-5) accepted by the Social Network Analysis and Mining Journal, 2019.
 ```
 
 ### Other Projects
